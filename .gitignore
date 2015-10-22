@@ -21,5 +21,7 @@ npm-debug.log
 
 #For Build-System Branch Only - Keeps this folder file size to a minimum
 #allowing to extract zip but not being able to add the extracted files to git
-/build-sys-info/**
+/build-sys-info/*
 !/build-sys-info/BuildSystemInfo.zip
+!/build-sys-info/Docs/
+/build-sys-info/BuildSystemInfo/**
